@@ -40,3 +40,4 @@ npm run build
 npx next export
 
 **** hosting on ipfs && filecoin using fleek
+fleek.co
